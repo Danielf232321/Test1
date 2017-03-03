@@ -1,0 +1,7 @@
+<html>
+<head>
+cool website
+</head>
+<body>
+</body>
+</html>
